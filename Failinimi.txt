@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Muudan teksti praegu
+=======
+minumuudatus
+>>>>>>> ef5b2fb0d8a3b621888907d822c3c232fbeccf35
 Tervist
 Teretere
